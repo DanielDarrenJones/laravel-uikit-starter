@@ -1,0 +1,23 @@
+$global-color: #666666;
+
+// Default
+$global-default: #ffffff;
+
+// Primary
+$global-primary: #6200ea;
+$global-primary-background: $global-primary;
+
+// Muted
+$global-muted: #F5F8FA;
+$global-muted-background: $global-muted;
+
+$navbar-background: $global-primary-background;
+$navbar-toggle-color: $global-default;
+
+$icon-button-background: $global-primary-background;
+$icon-button-color: $global-default;
+$icon-button-hover-color: $icon-button-color;
+$icon-button-active-color: $icon-button-color;
+
+$logo-color: $global-default;
+$logo-hover-color: $global-default;
